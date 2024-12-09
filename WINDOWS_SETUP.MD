@@ -2,6 +2,7 @@
 
 ### scoop
 
+
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 
@@ -17,7 +18,6 @@ apps::
 
 7zip                     
 autohotkey               
-dark                     
 FiraCode                 
 firefox                  
 flux                     
@@ -35,4 +35,7 @@ OpenDyslexic-NF
 vcredist                
 vlc                     
 vscode                  
-vscode-insiders         
+vscode-insiders    
+thorium-reader     
+
+##
