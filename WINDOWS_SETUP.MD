@@ -17,7 +17,6 @@ apps::
 
 7zip                     
 autohotkey               
-cmake                    
 dark                     
 FiraCode                 
 firefox                  
@@ -27,16 +26,12 @@ git
 godot                    
 googlechrome             
 greenshot                
-innounp                  
 JetBrainsMono-NF         
- lazygit                  
-localsend                
+lazygit                  
 make                     
-mingw                    
 obs-studio              
 obsidian                
 OpenDyslexic-NF         
-python                  
 vcredist                
 vlc                     
 vscode                  
